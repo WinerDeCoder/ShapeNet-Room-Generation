@@ -24,8 +24,9 @@ So far, i'm able to retrieve object from ShapeNet out and put it into a room. Cu
 ![image](https://github.com/WinerDeCoder/ShapeNet-Room-Generation/assets/136697023/8ff8ddb6-d7a5-4d3f-ae75-d5830c6d15b5)
 
 
-You could see i can create a Synthetic Room with Walls, Ceiling, Floor, Beams, Columns and Objects. However, the objects are not in good arrangement
+You could see i can create a Synthetic Room with Walls, Ceiling, Floor, Beams, Columns and Objects. However, the objects are not in good arrangement.
 
-**In my next step, we will apply learning rules to make it more realistic.
+
+**In my next step, we will apply learning rules to make it more realistic.**
 
 ## To be Continued
