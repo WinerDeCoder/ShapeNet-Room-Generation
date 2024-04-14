@@ -3,7 +3,8 @@ Generating synthetic 3D Point Cloud Rooms with ShapeNet dataset
 
 > [!IMPORTANT]
 > You must install the ShapeNetCore in order to get ShapeNet's object for creating rooms. Download [here](https://drive.google.com/file/d/1N-hPfbb3GOJy541hKW4lMu9A7W6btY_y/view?usp=sharing)
-> This project is under my working so The Code for this Project is Hidden by me
+>
+> This project is under my working so The Code for this Project is Hidden now. I will release soon.
 
 ## Introduction about ShapeNet
 Shapenet is a widely used Synthetic object based 3D Point Cloud dataset. it contains 55 categories / classes like table, chair, sofa,..... More information about ShapeNet, read [HERE](https://paperswithcode.com/paper/shapenet-an-information-rich-3d-model)
